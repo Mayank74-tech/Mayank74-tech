@@ -1,16 +1,190 @@
-# 💫 About Me:
-🔭 I'm currently working on<br>TownKart — a hyperlocal delivery marketplace (Flutter mobile + TanStack/Supabase web), and Flutter apps using Dart, GetX, Firebase, REST APIs, focusing on real-time features and clean UI/UX.<br><br>👯 I'm looking to collaborate on<br>Flutter/Android projects, open-source apps, and<br> beginner-friendly mobile or backend-integrated projects.<br><br>🤝 I'm looking for help with<br>Advanced Flutter/Android concepts, scalable clean architecture,<br> app performance optimization, and payment/KYC integrations.<br><br>🌱 I'm currently learning<br>Data Structures & Algorithms, full-stack development (Node.js, Express, MongoDB),<br> and Supabase/backend integration.<br><br>💬 Ask me about<br>Flutter, Dart, GetX, Firebase, Razorpay integration, KYC onboarding (DigiO/Bureau), REST APIs, <br>and building production-ready mobile apps.<br><br>⚡ Fun fact<br>I enjoy turning ideas into working apps and debugging <br>gives me more satisfaction than writing new code 😄
+# 👋 Hi, I'm Mayank Kumar
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayank74-tech/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mayanksaini7455@gmail.com)
+### 🚀 Full-Stack Developer | Flutter | NestJS | PostgreSQL | Backend Engineering
 
-# 💻 Tech Stack:
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+I'm a **B.Tech Computer Science student and developer** focused on building production-ready applications across **mobile, web, and backend systems**.
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Mayank74-tech&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Mayank74-tech&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mayank74-tech&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+Currently working on **GTO Connect**, an education/study-abroad platform involving student applications, document management, university/course data, eligibility workflows, notifications, counsellor communication, and admin operations.
+
+I enjoy taking an idea from **UI → API → database → deployment** and turning it into a working product.
+
 ---
-[![](https://visitcount.itsvg.in/api?id=Mayank74-tech&icon=0&color=0)](https://visitcount.itsvg.in)
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+## 💫 About Me
+
+🔭 **Currently working on**
+
+**GTO Connect** — a study-abroad platform with:
+
+* 🎓 Student applications & university/course discovery
+* 📄 Document upload, verification & management
+* 🔐 Authentication, JWT & role-based access control
+* 🏫 Countries, universities and course management
+* 📊 Student dashboard & application tracking
+* 🔔 Notifications and status updates
+* 💬 Counsellor & chat workflows
+* ⚙️ REST APIs with NestJS
+* 🗄️ PostgreSQL + Prisma ORM
+* 📑 Excel-based university/country data imports
+
+Also building **TownKart**, a hyperlocal delivery marketplace using Flutter and modern web/backend technologies.
+
+---
+
+## 🏆 Recent Achievements
+
+* 🚀 Built and structured a **production-oriented NestJS backend**
+* 🗄️ Designed relational database schemas using **PostgreSQL + Prisma**
+* 🔐 Implemented **JWT authentication and role-based authorization**
+* 👤 Built student profile, education, test-score and preference workflows
+* 📄 Implemented document upload and verification workflows
+* 🎓 Built university, country and course data management APIs
+* 📊 Implemented **Excel import pipelines** for large university/country datasets
+* 📝 Built application creation and **transactional application status history**
+* 🔁 Implemented **Idempotency-Key** handling for application creation
+* 🔔 Implemented notification APIs with Firebase push-notification support
+* 👨‍💼 Built admin document-management workflows
+* 🧩 Worked with modular NestJS architecture and scalable API design
+* 🧪 Extensive API testing and documentation using **Postman/OpenAPI**
+* 📱 Continued building production Flutter applications with Firebase and REST APIs
+
+---
+
+## 👨‍💻 What I'm Building
+
+### 🎓 GTO Connect
+
+A full-stack education/study-abroad platform designed to connect students with universities and counsellors.
+
+**Backend Stack**
+
+`NestJS` `TypeScript` `PostgreSQL` `Prisma` `REST API` `JWT` `Firebase`
+
+**Core Modules**
+
+`Authentication` • `Users` • `Student Profiles` • `Countries` • `Universities` • `Courses` • `Documents` • `Applications` • `Notifications` • `Offers` • `Counsellors` • `Chat`
+
+---
+
+## 💻 Tech Stack
+
+### 📱 Mobile Development
+
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge\&logo=dart\&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge\&logo=flutter\&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge\&logo=firebase\&logoColor=black)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge\&logo=sqlite\&logoColor=white)
+
+### ⚙️ Backend
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge\&logo=nestjs\&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge\&logo=express\&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
+
+### 🗄️ Databases & Backend Services
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge\&logo=prisma\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb\&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge\&logo=supabase\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+
+### 🧑‍💻 Programming Languages
+
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=c%2B%2B\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge\&logo=dart\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge\&logo=c\&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+
+### 🛠️ Tools & Platforms
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge\&logo=figma\&logoColor=white)
+
+---
+
+## 🤖 Currently Exploring
+
+* 🏗️ Scalable Backend Architecture
+* 🧩 Clean Architecture
+* ⚡ API Performance & Optimization
+* 🔐 Authentication & Authorization
+* ☁️ Cloud & Deployment
+* 📊 Data Structures & Algorithms
+
+---
+
+## 🤝 Open to Collaborate On
+
+* Flutter / Android applications
+* Full-stack applications
+* NestJS / Node.js backends
+* Open-source projects
+* Beginner-friendly backend projects
+* Developer tools and APIs
+
+---
+
+## 💬 Ask Me About
+
+`Flutter` • `Dart` • `NestJS` • `Node.js` • `PostgreSQL` • `Prisma` • `Firebase` • `Supabase` • `REST APIs` • `JWT` • `MongoDB` • `GetX` • `Razorpay` • `KYC Integrations` • `DigiLocker` • `API Architecture`
+
+---
+
+## 🧠 DSA & Problem Solving
+
+Currently strengthening my **Data Structures & Algorithms** skills using C++ with focus on:
+
+`Arrays` • `Strings` • `Sorting` • `Binary Search` • `Recursion` • `Trees` • `Graphs` • `Dynamic Programming`
+
+---
+
+## 📫 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/mayank-kumar-2529aa251/)
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:mayanksaini7455@gmail.com)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Mayank74-tech&show_icons=true&theme=tokyonight&hide_border=true"
+    height="180"
+  />
+
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayank74-tech&layout=compact&theme=tokyonight&hide_border=true"
+    height="180"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=Mayank74-tech&theme=tokyonight&hide_border=true"
+    height="180"
+  />
+</p>
+## 🐍 Contribution Activity
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Mayank74-tech/Mayank74-tech/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+</p>
+
+
+---
+
+## ⚡ Fun Fact
+
+> I enjoy turning ideas into working applications — and debugging gives me more satisfaction than writing new code. 😄
+
+---
+
+![Profile Views](https://visitcount.itsvg.in/api?id=Mayank74-tech\&icon=0\&color=0)
