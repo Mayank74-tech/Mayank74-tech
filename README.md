@@ -199,4 +199,6 @@ Currently strengthening my **Data Structures & Algorithms** skills using C++ wit
 
 ---
 
-![Profile Views](https://visitcount.itsvg.in/api?id=Mayank74-tech\&icon=0\&color=0)
+## 👀 Profile Views
+
+![Profile Views](https://komarev.com/ghpvc/?username=Mayank74-tech&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge)
